@@ -1,4 +1,4 @@
-# NeXus-
+# NeXus-report
 Future Engineers Report
 At the first day, they told us we will participate in this competition in the section of future engineers, we were very exited about it because we were waiting for the confirmation a long time ago and at the same day, they told us we have to begin working hard, there after one member found an old toy vehicle and we decided to disarm the car so we can clean exactly the parts of plastic, motors, directionals, wheels and finally the last components because it was an old toy that was like 1-2 years without use ; the next day we were looking if the parts were in a usable state found that the motherboard was damage and we have to change it, otherwise we still try to see if it worked, but it was a waste of time, because one of the motors was damage and another problem appeared one member of the group (non-official) broke an important part of the car, consequently, we decide to modify a new car.
 When we see that the car didn´t function we decide to buy new components and a new car. The components that we bought were part of a Lafvin´s Robotics Kit, specifically the “Multi-functional Smart Car Kit”.  
